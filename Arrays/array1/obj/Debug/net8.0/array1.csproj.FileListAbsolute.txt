@@ -1,0 +1,14 @@
+E:\filessss\DSA-Program\Arrays\array1\bin\Debug\net8.0\array1.exe
+E:\filessss\DSA-Program\Arrays\array1\bin\Debug\net8.0\array1.deps.json
+E:\filessss\DSA-Program\Arrays\array1\bin\Debug\net8.0\array1.runtimeconfig.json
+E:\filessss\DSA-Program\Arrays\array1\bin\Debug\net8.0\array1.dll
+E:\filessss\DSA-Program\Arrays\array1\bin\Debug\net8.0\array1.pdb
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\array1.GeneratedMSBuildEditorConfig.editorconfig
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\array1.AssemblyInfoInputs.cache
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\array1.AssemblyInfo.cs
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\array1.csproj.CoreCompileInputs.cache
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\array1.dll
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\refint\array1.dll
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\array1.pdb
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\array1.genruntimeconfig.cache
+E:\filessss\DSA-Program\Arrays\array1\obj\Debug\net8.0\ref\array1.dll
